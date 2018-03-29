@@ -1,6 +1,6 @@
 ## meet-mew
 
-This will help you to register your EOS wallet.  
+A tool to register your EOS token, based on MyEtherWallet.
 
 It is forked from https://github.com/kvhnuke/etherwallet
 
